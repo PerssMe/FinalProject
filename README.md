@@ -22,17 +22,17 @@
 ------------------------- 
 Wildberries, СберМегаМаркет, Ozon
 
-![coming.png](https://github.com/PerssMe/FinalProject/blob/main/FinalWork/coming.png)
+![coming.png](https://github.com/PerssMe/FinalProject/blob/main/coming.png)
 
-![moving.png](https://github.com/PerssMe/FinalProject/blob/main/FinalWork/moving.png)
+![moving.png](https://github.com/PerssMe/FinalProject/blob/main/moving.png)
 
-![sale.png](https://github.com/PerssMe/FinalProject/blob/main/FinalWork/sale.png)
+![sale.png](https://github.com/PerssMe/FinalProject/blob/main/sale.png)
 
-![write_off.png](https://github.com/PerssMe/FinalProject/blob/main/FinalWork/write_off.png)
+![write_off.png](https://github.com/PerssMe/FinalProject/blob/main/write_off.png)
 
-![img.png](https://github.com/PerssMe/FinalProject/blob/main/FinalWork/img.png)
+![img.png](https://github.com/PerssMe/FinalProject/blob/main/img.png)
 
-![scheme.png](https://github.com/PerssMe/FinalProject/blob/main/FinalWork/scheme.png)
+![scheme.png](https://github.com/PerssMe/FinalProject/blob/main/scheme.png)
 
 Documents - Таблица документов<br>
 DocumentTypes - Справочник типы документов<br>
